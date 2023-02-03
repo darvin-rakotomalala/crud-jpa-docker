@@ -2,6 +2,7 @@
 Dans ce repo, nous allons voir un exemple CRUD Spring Boot Data JPA et Docker.
 
 ### Qu'est-ce que Docker ?
+---
 **Docker** est un moteur de conteneur qui permet de regrouper, d'expédier et de distribuer des applications sur des serveurs distribués.
 
 ### Technologies
